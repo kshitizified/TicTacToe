@@ -1,5 +1,6 @@
 # TicTacToe
 A windows based popular Tic-Tac-Toe game developed using c#, just as an assignment for my c# training.
+As this is pretty basic, please feel free to improve this.
 
 # How to Run ?
 Well, we have an exe file ready so that you can quickly run this game.
